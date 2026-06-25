@@ -1,13 +1,17 @@
 # Hi, I'm Filip 👋
 
-I'm a student from Slovakia 🇸🇰 who enjoys building things and learning by doing.
+🎓 Student from Slovakia 🇸🇰, into web development and game scripting.
+I like building things, breaking them, and figuring out how they work.
 
-### Languages & tech I work with
-- PHP
-- HTML
-- MySQL
-- AMX Mod X (Pawn)
-- Python
-- JavaScript
+### 🛠️ What I work with
 
-Always learning something new.
+**Web** — PHP · JavaScript · HTML · MySQL
+**Scripting** — Python · AMX Mod X (Pawn)
+
+### 🚀 Currently
+
+Sharpening my skills and working on personal projects while I study.
+
+---
+
+*Always learning something new.*
