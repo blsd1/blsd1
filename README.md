@@ -5,8 +5,15 @@ I like building things, breaking them, and figuring out how they work.
 
 ### 🛠️ What I work with
 
-**Web** — PHP · JavaScript · HTML · MySQL
-**Scripting** — Python · AMX Mod X (Pawn)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+</p>
+
+<sub>+ AMX Mod X (Pawn) for Counter-Strike scripting</sub>
 
 ### 🚀 Currently
 
