@@ -14,11 +14,16 @@ I like building things, breaking them, and figuring out how they work.
   <a href="https://www.amxmodx.org" target="_blank"><img src="https://www.amxmodx.org/images/amxxlarge.jpg" alt="AMX Mod X" height="50" /></a>
 </p>
 
-<sub>PHP · JavaScript · HTML5 · MySQL · Python · AMX Mod X (Pawn)</sub>
-
 ### 🚀 Currently
 
 Sharpening my skills and working on personal projects while I study.
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=blsd1&show_icons=true&hide_border=true" alt="Filip's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blsd1&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
 
 ---
 
